@@ -5,9 +5,11 @@ Aims
 	• Use functions and files to allow more complex solutions
 	
 #Instructions
+
 Write a Python program to solve the following problem. Your solution should include a readme.md file (which includes details of how to run your assignment) and your Python program in a file named codon_optimisation.py, and be submitted as a single .tgz file named pt2.tgz. You should ensure your solution works using the Python 3 interpreter on turing.
 
 #Problem
+
 The mayor of Codetown is ambitious. Not content to simply wait for the COVID-19 vaccine to arrive, she wants to study the vaccine and understand how it was developed. She knows that RNA works a lot like computer code, so has enlisted your help. In particular, she wants to understand and/or improve how the RNA from the virus was modified by the manufacturer to create their vaccine. She has commissioned you to develop a set of rules that takes a representation of the virus RNA and optimises it to a form similar to that of the BioNTech/Pfizer SARS-CoV-2 mRNA vaccine. She also wants you to implement these rules in a Python program.
 
 
