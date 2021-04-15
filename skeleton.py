@@ -6,6 +6,7 @@ import csv  #  Allow reading of CSV files
 codon_amino_acid_map = {}
 
 
+
 def get_amino_acid(codon):
     """
       Returns a character representing the amino acid encoded by the given codon.
@@ -86,5 +87,3 @@ if __name__ == "__main__":
     print("Virus comparison: {:.2f}% identical to vaccine".format(virus_comparison))
     print("Optimised comparison: {:.2f}% identical to vaccine".format(optimised_comparison))
     print("Optimisation improves compatability by {:.2f}%".format(optimised_comparison - virus_comparison))
-
-
